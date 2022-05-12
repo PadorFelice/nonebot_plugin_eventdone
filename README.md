@@ -3,8 +3,8 @@
 
 
 使用说明
-1.直接下载压缩包
-2.解压放入你的plugin文件夹即可食用喵~
+1.直接下载压缩包/使用git clone  gh repo clone PadorFelice/Nonebot_plugin_eventdone
+2.解压放入你的plugin文件夹即可食用喵~（记得查看PS！！！）
 
 PS：罐头是我家猫猫的名字，您当然也可以改成您喜欢的东西的名字
     在运行前请先检查import的组件您是否已经准备齐全，超级用户是否在.env中设置完毕
