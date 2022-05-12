@@ -38,7 +38,7 @@ async def add_friend(event: FriendRequestEvent):
             await nonebot.get_bot().send_msg(user_id=int(su_qq), message=f"罐头坏掉了\n错误信息：{e}")
 
 # 超级用户使用，同意好友添加机器人请求
-agree_qq_add = on_command("同意", permission=SUPERUSER)
+agree_qq_add = on_command("同意", permission=SUPERUSER)      #这里可以自行设置
 
 
 @agree_qq_add.handle()
