@@ -6,7 +6,7 @@ from nonebot.adapters.onebot.v11 import Bot, MessageSegment, Event, FriendReques
 from nonebot.permission import SUPERUSER
 from nonebot.plugin import on_command, on_request
 
-# 获取超寄用户的id
+# 获取超级用户的id
 super_id = nonebot.get_driver().config.superusers
 
 
