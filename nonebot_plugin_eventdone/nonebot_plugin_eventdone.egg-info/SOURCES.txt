@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+nonebot_plugin_eventdone/__init__.py
+nonebot_plugin_eventdone/config.py
+nonebot_plugin_eventdone.egg-info/PKG-INFO
+nonebot_plugin_eventdone.egg-info/SOURCES.txt
+nonebot_plugin_eventdone.egg-info/dependency_links.txt
+nonebot_plugin_eventdone.egg-info/requires.txt
+nonebot_plugin_eventdone.egg-info/top_level.txt
