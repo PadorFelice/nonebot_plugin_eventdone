@@ -3,7 +3,7 @@
 
 
 # 使用说明
-1.直接下载压缩包/使用git clone  gh repo clone PadorFelice/Nonebot_plugin_eventdone/现在支持pip了
+1.pip install nonebot_plugin_eventdone
 2.解压放入你的plugin文件夹即可食用喵~（记得查看PS！！！）
 3.set.json文件里的几个QQ号可以删除，是测试的实验号（）
 
@@ -14,5 +14,5 @@
 3.本组件基于nonebot运行，如果您使用的不是nonebot，出错概不负责
     
 # 有疑问（请事先查看提问的智慧）   
-    自己想
-    issue
+    请先自己想一想喵~
+    实在不会的话再issue！
