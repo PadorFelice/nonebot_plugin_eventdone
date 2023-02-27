@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot_plugin_eventdone"
-version = "1.0.0"
+version = "1.1.0"
 description = ""
 authors = ["Padro Felice <2659737583@qq.com>"]
 license = "MIT"
