@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot_plugin_eventdone"
-version = "0.1.9"
+version = "1.0.0"
 description = ""
 authors = ["Padro Felice <2659737583@qq.com>"]
 license = "MIT"
@@ -8,6 +8,7 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.8"
 nonebot2 = "^2.0.0-rc.3"
+aiofiles = "^23.1.0"
 
 [tool.poetry.dev-dependencies]
 
